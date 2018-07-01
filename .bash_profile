@@ -1,6 +1,9 @@
 # user command
 export PATH="$HOME/bin:$PATH"
 
+# Homeports (https://github.com/asa-taka/homeports)
+alias home=homeports
+
 # anyenv
 export PATH="$HOME/.anyenv/bin:$PATH"
 eval "$(anyenv init -)"
