@@ -1,0 +1,4 @@
+#! /bin/bash
+# Clean all Screen Shots on Desktop
+
+rm ~/Desktop/Screen\ Shot*.png

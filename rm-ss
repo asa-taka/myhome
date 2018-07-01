@@ -1,4 +1,1 @@
-#! /bin/bash
-# Clean all Screen Shots on Desktop
-
-rm ~/Desktop/Screen\ Shot*.png
+/Users/asa-taka/.myports/bin/rm-ss
