@@ -1,0 +1,10 @@
+#! /bin/bash
+
+echo "[Homebrew]"
+brew outdated
+
+echo; echo "[Homebrew Cask]"
+brew cask outdated
+
+echo; echo "[NPM Global Packages]"
+npm -g outdated
