@@ -12,7 +12,6 @@
         "statusBar.noFolderBackground": "#222225",
         "statusBar.debuggingBackground": "#511f1f",
         "gitDecoration.ignoredResourceForeground": "#5B6270",
-        "list.inactiveFocusForeground": "#444",
         "sideBar.background": "#20252C",
         "sideBarSectionHeader.background": "#20252C",
         "foreground": "#999",
